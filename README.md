@@ -1,1 +1,1 @@
-# uptime-kuma-bootstrap
+# Uptime Kuma as a code?
