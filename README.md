@@ -42,4 +42,4 @@ python app.py
 
 
 
-#### Big thanks to: https://github.com/louislam/uptime-kuma
+#### Big thanks to: https://github.com/louislam/uptime-kuma & https://github.com/lucasheld/uptime-kuma-api
