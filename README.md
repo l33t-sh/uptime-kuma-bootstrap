@@ -1,6 +1,6 @@
 # ‼️ Uptime-Kuma as a config ⁉️ 
 
-This repo contains a simple app that will configure / bootstrap the Uptime-Kuma monitoring.
+This repo contains a simple app that will configure / bootstrap the Uptime-Kuma.
 <br>Idea behind this, is to run it in my homelab pipelines to keep the application "up-to-date"
 
 > **Warning**
