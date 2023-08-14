@@ -1,0 +1,2 @@
+PyYAML==6.0.1
+uptime-kuma-api==1.1.0
