@@ -1,4 +1,4 @@
-# Uptime-Kuma as a code?
+# ‼️ Uptime-Kuma as a code ⁉️ 
 
 This repo contains a simple app that will configure / bootstrap the Uptime-Kuma monitoring.
 <br>Idea behind this, is to run it in my homelab pipelines to keep the application "up-to-date"
