@@ -1,0 +1,22 @@
+---
+
+url: "https://uptime.example.com"
+
+login:
+  username: "admin"
+  password: "admin"
+  #totp: "abc" <- Use if TOTP is enabled
+
+tags:
+  - name: "k3s"
+    color: "#059669"
+  - name: "Homelab"
+    color: "#D97706"
+  - name: "Critical"
+    color: "#DC2626"
+  - name: "Raspberry"
+    color: "#DB2777"
+  - name: "Service"
+    color: "#7C3AED"
+  - name: "x86"
+    color: "#DB2777"
