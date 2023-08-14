@@ -5,7 +5,7 @@ This repo contains a simple app that will configure / bootstrap the Uptime-Kuma 
 
 > **Warning**
 > <br>This script is destructive. It will not ask for confirmation as its designed to be used in the CICD scenarios
-> <br>Please read the README.md and example_config.yml before using it on "prod"
+> <br>Please read the `README.md` and `example_config.yml` before using it on "prod"
 
 
 ## Features:
